@@ -1,0 +1,14 @@
+C:\Ulbra\Laboratório de Programação\Aula2TDE\bin\Debug\net8.0\Aula2TDE.exe
+C:\Ulbra\Laboratório de Programação\Aula2TDE\bin\Debug\net8.0\Aula2TDE.deps.json
+C:\Ulbra\Laboratório de Programação\Aula2TDE\bin\Debug\net8.0\Aula2TDE.runtimeconfig.json
+C:\Ulbra\Laboratório de Programação\Aula2TDE\bin\Debug\net8.0\Aula2TDE.dll
+C:\Ulbra\Laboratório de Programação\Aula2TDE\bin\Debug\net8.0\Aula2TDE.pdb
+C:\Ulbra\Laboratório de Programação\Aula2TDE\obj\Debug\net8.0\Aula2TDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ulbra\Laboratório de Programação\Aula2TDE\obj\Debug\net8.0\Aula2TDE.AssemblyInfoInputs.cache
+C:\Ulbra\Laboratório de Programação\Aula2TDE\obj\Debug\net8.0\Aula2TDE.AssemblyInfo.cs
+C:\Ulbra\Laboratório de Programação\Aula2TDE\obj\Debug\net8.0\Aula2TDE.csproj.CoreCompileInputs.cache
+C:\Ulbra\Laboratório de Programação\Aula2TDE\obj\Debug\net8.0\Aula2TDE.dll
+C:\Ulbra\Laboratório de Programação\Aula2TDE\obj\Debug\net8.0\refint\Aula2TDE.dll
+C:\Ulbra\Laboratório de Programação\Aula2TDE\obj\Debug\net8.0\Aula2TDE.pdb
+C:\Ulbra\Laboratório de Programação\Aula2TDE\obj\Debug\net8.0\Aula2TDE.genruntimeconfig.cache
+C:\Ulbra\Laboratório de Programação\Aula2TDE\obj\Debug\net8.0\ref\Aula2TDE.dll
